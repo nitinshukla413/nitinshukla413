@@ -6,6 +6,7 @@
 **nitinshukla413/nitinshukla413** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 -->
+![](https://komarev.com/ghpvc/?username=your-github-nitinshukla413&color=green)
 
 
 - 🌍  I’m from Indore(India) .
