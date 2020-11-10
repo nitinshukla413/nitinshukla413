@@ -1,13 +1,13 @@
 ## Hi there 👋, I'm Nitin
 
-### I'm learning to become Full stack developer Currently in 2nd year undergrad @AITR,Indore
+### I'm learning to become Full stack developer Currently in 2nd year undergrad @AITR,Indore.
 
 <!--
 **nitinshukla413/nitinshukla413** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 -->
 
-- 🌍  I’m from Indore(India) .
+- 🌍  I’m from Indore(India).
 
 - 🌱 I’m currently learning Flutter Development.
 
