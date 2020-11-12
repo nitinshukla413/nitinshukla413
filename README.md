@@ -17,7 +17,7 @@
 
 - 💬 Let's talk about Web Development, Flutter, Java, UI/UX.
 
-- 📫 How to reach me: nitinshukla413@gmail.com
+- 📫 How to reach me: nitinshukla413@gmail.com.
 
 
 
