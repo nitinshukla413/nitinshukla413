@@ -15,9 +15,9 @@
 
 - 👯 I’m looking to collaborate on MERN stack projects.
 
-- 💬 Let's talk about Web Development, Flutter, Java, UI/UX
+- 💬 Let's talk about Web Development, Flutter, Java, UI/UX.
 
-- 📫 How to reach me: nitinshukla413@gmail.com.
+- 📫 How to reach me: nitinshukla413@gmail.com
 
 
 
