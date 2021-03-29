@@ -13,7 +13,7 @@
 
 - 🤝 I’m open for opportunities as Full stack web developer.
 
-- 👯 I’m looking to collaborate on MERN stack projects.
+- 👯 I’m looking to collaborate on MERN stack projects
 
 - 💬 Let's talk about Web Development, Flutter, Java, UI/UX
 
