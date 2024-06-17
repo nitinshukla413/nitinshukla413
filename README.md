@@ -4,7 +4,7 @@
 
 I recently graduated from AITR, Indore, and I'm excited to embark on my professional journey as a Full-Stack Developer. With a passion for building robust and user-friendly applications, I thrive on combining my creative and technical skills to deliver exceptional digital solutions.
 
-- 🌍 Based in Indore, India
+- 🌍 Based in Pune, India
 - 🌱 Currently diving deeper into React and Node.js
 - 🔍 Exploring opportunities in Full-Stack Web Development
 - 👯 Open to collaborating on exciting MERN stack projects
